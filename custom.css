@@ -87,7 +87,7 @@
   /* Visualization tile customization on the Liveboard page*/
   --ts-var-viz-border-radius: 24px;
   --ts-var-viz-box-shadow: 2px 3px 7px 0px rgba(0,0,0,0.1);
-  --ts-var-viz-background: #F2F7FF;
+  --ts-var-viz-background: #000000;
   --ts-var-viz-legend-hover-background: #ABC7F9;
 
   /* Filter chips on answers and visualization pages */
