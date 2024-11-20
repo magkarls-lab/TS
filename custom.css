@@ -65,7 +65,7 @@
   
   /* Viz area customizations*/
   --ts-var-viz-border-radius: 15px;
-  --ts-var-viz-box-shadow: 1px 2px 5px #888888;
+  --ts-var-viz-box-shadow: 1px 2px 5px #C5C5C5;
   --ts-var-viz-background: initial;
 }
 
